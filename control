@@ -1,0 +1,10 @@
+Package: vn.bonioshax.fps
+Name: FPS Rainbow Color
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Báo lỗi Zalo: 0329514703
+Maintainer: BoniOS
+Author: BoniOS
+Section: Tweaks
+Homepage: https://bonioshax.vn
